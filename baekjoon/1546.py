@@ -6,5 +6,4 @@ new_score_list = []
 for score in score_list:
     new_score_list.append(score/M*100)
 
-avg = sum(new_score_list)/N
-print(avg)
+print(sum(new_score_list)/N)
