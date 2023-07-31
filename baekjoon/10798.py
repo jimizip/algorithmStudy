@@ -1,5 +1,4 @@
 word_table = []
-res = ''
 max_len = []
 for _ in range(5):
     word = input()
